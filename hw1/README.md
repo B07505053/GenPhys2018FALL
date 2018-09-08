@@ -44,7 +44,7 @@ print(ball.v.y)
     from vpython import *
     ```
 2. Setting constants. For convenience, all physical quantities in the simulation world are always with SI units.  
-    *** Texts after # are not parts of the program, they are remarks.  
+    *** Texts after `#` are not parts of the program, they are remarks.  
     ```python
     g=9.8           # g = 9.8 m/s^2
     size = 0.25     # ball radius = 0.25 m
@@ -55,7 +55,7 @@ print(ball.v.y)
     scene = canvas(width=800, height=800, center =vec(0,height/2,0), background=vec(0.5,0.5,0))
     ```
     *** Open a window named `scene` with 800 horizontal pixels and 800 vertical pixels. In the simulation world, before changing the view angle, +x axis points to the right is, +y to the top, +z pointing out the screen. `center` is the position vector of the center of the simulation world. vec(x, y, z) means a 3D vector.  
-    *** `background` sets the background color to vec(red, green, blue), which indicates the strength for red, green, and blue, respectively, scaled from 0.0 to 1.0,. ** _Always set this attribute to some background color, otherwise the background defaults to black, making results difficult to see, especially with a projector._ **  
+    *** `background` sets the background color to vec(red, green, blue), which indicates the strength for red, green, and blue, respectively, scaled from 0.0 to 1.0,. **_Always set this attribute to some background color, otherwise the background defaults to black, making results difficult to see, especially with a projector._**  
 4. Objects in simulation world.  
     ```python
     floor = box(length=30, height=0.01, width=10, color=color.blue)                               # the floor
@@ -64,10 +64,12 @@ print(ball.v.y)
     *** In Python, A.B means the “attribute B of A”. The color of the floor is blue.  
       
     *** `vector() or vec()` is used to present a vector, such as a=vector(1, 2, 3), in which all three components are float (i.e here 1 is 1.0,...). More, a.x means the x component of a. We can use `print(a.x)` to show the x component of vector a or `a.x = 5` to set the x component of a to 5. floor.pos is also a vector, therefore `floor.pos.x` is the x component of `floor.pos`. Similarly, for y and z.  
+      
     ```python
     ball = sphere(radius = size, color=color.red, make_trail = True, trail_radius = 0.05)
     ```
     This draws a sphere called ball, with `radius = size` and `color=color.red`. Later, we may assign the center position of the ball, such as `ball.pos = vector(1, 0, 0)`, and we can also attach more attributes to `ball`, such as `ball.v = vector(2, 0, 0)`. Attribute `make_trail = True` makes a trail of the object. The thickness of the trail is set by trail_radius.  
+      
     ```python
     msg =text(text = 'Free Fall', pos = vec(-10, 10, 0))
     ```
