@@ -131,4 +131,12 @@ c1.axis = a1.axis + b1.axis
 ```
 In this program, it draws two arrows, a1 and b1, with color being `green` and `blue`, respectively and with `shaftwidth = 0.05`. `arrow` has attributes like `pos`, `axis`, and `color`. E.g. `a1.pos = vector(1, 1, 0)` makes the starting point of a1 at (1, 1, 0), `a1.axis = vec(1, -1, 0)` draws a1 as a vector of (1, -1, 0). Similarly, b1 starts at a1’s arrow tip and has an axis of vector `vec(2, 1, 0)`. If you follow the codes for arrow c1, you can find that this is actually a representation of a vector addition, vector a1 + vector b1 = vector c1.  
 
-## Homework
+## Homework  
+You need to hand in your homework with a filename extension ‘.py’. If you are writing your homework in Jupyter, you need to extract the complete runnable codes and save them in just one ‘.py’ file.  
+  
+### MUST (5%)  
+Modify the Free Fall program. Let the ball’s initial position = vec(-15, 5, 0) and with initial velocity = vec (6, 8, 0). Add at the center of the ball an arrow, which moves along with the ball and whose length is proportional (proportional constant by your choice) to and parallel to the velocity vector of the ball. In the end, show the displacement of the ball for the entire flight.  
+### OPTIONAL (1%)  
+Add some codes to find the following values and show the values in the end.  
+1. Theflyingtimeintheair.  
+2. The length of the entire path. (Note: in python, `x**p` means x to power p, $x^{p}$)  
