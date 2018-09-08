@@ -16,7 +16,8 @@ General Physics (2018, fall)
 ## 作業  
 ### 作業公佈  
 + ceiba公布：兩週以前(Sun. 21:00)事先公布，關於作業詳細內容，請見本站每次的公告  
-+ ```html
++ 
+```html
 <font color="white">課堂宣布＆發作業說明（紙本）<font>
 ```  
   
