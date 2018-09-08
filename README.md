@@ -1,6 +1,6 @@
 # GenPhys2018FALL
-General Physics (2018, fall)  
-我們希望**普物程式專題**對你的幫助... :)))  
+## General Physics (2018, Fall)  
+我們希望普物程式專題對你的幫助... :)))  
 + 圖像的動畫讓你建立對於抽象物理現象的具體想像。  
 + Handmade不會騙，你能implement出來就代表你對物理公式有一定程度的瞭解了。  
 + 學python語言超級有用的啦～  
@@ -55,4 +55,4 @@ General Physics (2018, fall)
 + 作業成績會在ceiba上公布，若對於評分有疑義，請寫信給助教  
   
 ## 期末專題  
-+ 請錄12分鐘的影片上傳到youtube  
+請錄12分鐘的影片上傳到youtube  
