@@ -147,15 +147,15 @@ Add some codes to find the following values and show the values in the end.
 2. The length of the entire path. (Note: in python, `x**p` means x to power p, $x^{p}$)  
 
 ### Deadline  
-**9/23 Sun. 22:00**@@@  
+`9/23 Sun. 22:00`@@@  
 
 ### Grading Criteria  
-#### Must@@@
-0: No Submission.  
-1: The program is totally not runnable.  
-2: There are some subtle bugs in the projectile animation so that it behaves abnormal.  
-3: The projectile animation is correct, but not printing the displacement value.  
-4: The projectile animation is correct, but the displacement value is wrong.  
-5: The projectile animation is correct, and so for the displacement value.  
-#### Optional
-If you have 1 question correct (either one), you get this 1 point credit.  
+1. Must@@@
+    0: No Submission.  
+    1: The program is totally not runnable.  
+    2: There are some subtle bugs in the projectile animation so that it behaves abnormal.  
+    3: The projectile animation is correct, but not printing the displacement value.  
+    4: The projectile animation is correct, but the displacement value is wrong.  
+    5: The projectile animation is correct, and so for the displacement value.  
+2. Optional
+    If you have 1 question correct (either one), you get this 1 point credit.  
