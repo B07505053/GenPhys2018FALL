@@ -1,5 +1,9 @@
 # VP1: Simple Start for Vpython, Projectile \[the basic of Python, while\]  
 
+## [影片以及作業說明](http://tcjd71.wixsite.com/vpython/copy-of-5)  
++ [影片](https://www.youtube.com/playlist?list=PLxowpOHFnGyPYeJTm6QGmZUEbnZAsyJA_)  
++ [作業說明pdf](https://drive.google.com/file/d/1IyYWUNxHgl9QLs6jyvTx4GvkDxYl-cfW/view)  
+
 ## python3 x vpython7 Installation  
 Follow the steps in “安裝” at http://tcjd71.wixsite.com/vpython/install to install (choose one of the following ways):  
 (1) python3 + vpython7  
