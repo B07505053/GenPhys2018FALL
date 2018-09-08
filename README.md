@@ -9,7 +9,8 @@ General Physics (2018, fall)
 * TA hour: thursday section 6 @R519  
 * 歡迎大家有問題:  
   1. 就直接在TA hour找我  
-  2. 若有不便之處，請[寫信](R07222016@ntu.edu.tw)給我，主旨：[普物]，我會優先處理  
+  2. 若有不便之處，請寫信給我，主旨：[普物]，我會優先處理  
+     信箱：R07222016@ntu.edu.tw  
         
 ## 作業  
 ### 作業公佈  
