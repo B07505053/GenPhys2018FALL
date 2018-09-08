@@ -92,13 +92,18 @@ print(ball.v.y)
     *** We use the “while loop” command all the time. The condition between `while` and colon( : ) is tested. If it is satisfied, all **the indented codes (associated codes)** below colon are executed once. Then the condition will be retested again and the process will repeat until the condition is no longer satisfied (here, it means that the y component of the ball’s center position is no longer larger than the ball radius, meaning the ball touches the floor). At this moment, Vpython stops executing the `while` loop and its associated codes, but then to continue to the next section of the codes (here, it is `msg.visible = False`)  
     *** In Python, **indentation of a section of codes** (you can do this by press tab key) means this section of codes is associated with the previous line of code with colon ( : ).  
        
-    `rate(1000)`  
+    <p>
+    ```python
+    rate(1000)
+    ```
     *** This sets the while loop to run 1000 times per real-world second. With dt=0.001, this simulation runs at a speed of 1000\*0.001 = 1 of real-world time, meaning the result is presented as in real-world time. If rate(500), 500\*0.001 = 0.5, then the result is presented at a slow motion of 0.5 real-world time.  
        
-    `ball.pos = ball.pos + ball.v*dt`         Let ball.pos to increase ball.v\*dt in one dt
-    `ball.v.y = ball.v.y - g*dt`              Let ball.v.y to increase -g\*dt in one dt.
-                                              These two lines are the most basic to describe kinetics of moving bodies
-
+    ```python
+    ball.pos = ball.pos + ball.v*dt         Let ball.pos to increase ball.v*dt in one dt
+    ball.v.y = ball.v.y - g*dt              Let ball.v.y to increase -g*dt in one dt.
+                                            These two lines are the most basic to describe kinetics of moving bodies
+    ```
+    <\p>
       
     ```python
     msg.visible = False
