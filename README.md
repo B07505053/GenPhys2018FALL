@@ -23,7 +23,7 @@ General Physics (2018, fall)
 + 9次作業，請大家自選**4次**錄影：
   對於物理內涵和程式做說明  
   **上傳到youtube，將網址在程式開頭的地方以註解的方式加到第一行程式碼內，交到ceiba**  
-  如下：(在你的程式碼中)  
+  For ex: (in your source code)  
   ```python
   #https://www.youtube.com/xxxxxxxxxxxxxxxxxxxxxx
   ```
