@@ -51,11 +51,11 @@ print(ball.v.y)
     height = 15.0   # ball center initial height = 15 m
     ```
 3. Opening a window.  
-```python
-scene = canvas(width=800, height=800, center =vec(0,height/2,0), background=vec(0.5,0.5,0))
-```
-*** Open a window named scene with 800 horizontal pixels and 800 vertical pixels. In the simulation world, before changing the view angle, +x axis points to the right is, +y to the top, +z pointing out the screen. center is the position vector of the center of the simulation world. vec(x, y, z) means a 3D vector.  
-*** background sets the background color to vec(red, green, blue), which indicates the strength for red, green, and blue, respectively, scaled from 0.0 to 1.0,. Always set this attribute to some background color, otherwise the background defaults to black, making results difficult to see, especially with a projector.  
+    ```python
+    scene = canvas(width=800, height=800, center =vec(0,height/2,0), background=vec(0.5,0.5,0))
+    ```
+    *** Open a window named `scene` with 800 horizontal pixels and 800 vertical pixels. In the simulation world, before changing the view angle, +x axis points to the right is, +y to the top, +z pointing out the screen. `center` is the position vector of the center of the simulation world. vec(x, y, z) means a 3D vector.  
+    *** `background` sets the background color to vec(red, green, blue), which indicates the strength for red, green, and blue, respectively, scaled from 0.0 to 1.0,. **Always set this attribute to some background color, otherwise the background defaults to black, making results difficult to see, especially with a projector.**  
 4. Objects in simulation world.  
 ```python
 floor = box(length=30, height=0.01, width=10, color=color.blue) # the floor
