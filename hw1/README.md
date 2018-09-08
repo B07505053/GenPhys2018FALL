@@ -40,15 +40,16 @@ print(ball.v.y)
 
 ### Code explanation:
 1. *** Declaring using VPython module. All our simulation programs will have this first line  
-```python
-from vpython import *
-```
-2. Setting constants. For convenience, all physical quantities in the simulation world are always with SI units. *** Texts after # are not parts of the program, they are remarks.  
-```python
-g=9.8           # g = 9.8 m/s^2
-size = 0.25     # ball radius = 0.25 m
-height = 15.0   # ball center initial height = 15 m
-```
+    ```python
+    from vpython import *
+    ```
+2. Setting constants. For convenience, all physical quantities in the simulation world are always with SI units.  
+    *** Texts after # are not parts of the program, they are remarks.  
+    ```python
+    g=9.8           # g = 9.8 m/s^2
+    size = 0.25     # ball radius = 0.25 m
+    height = 15.0   # ball center initial height = 15 m
+    ```
 3. Opening a window.  
 ```python
 scene = canvas(width=800, height=800, center =vec(0,height/2,0), background=vec(0.5,0.5,0))
