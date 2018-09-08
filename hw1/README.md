@@ -160,7 +160,7 @@ Add some codes to find the following values and show the values in the end.
     0: No Submission.  
     1: The program is totally not runnable.  
     2: There are some subtle bugs in the projectile animation so that it behaves abnormal.  
-    3: The projectile animation is correct, but not printing the displacement value.  
+    3: The projectile animation is correct, but you fail to show the displacement value.  
     4: The projectile animation is correct, but the displacement value is wrong.  
     5: The projectile animation is correct, and so for the displacement value.  
 2. Optional  
