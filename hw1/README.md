@@ -113,7 +113,22 @@ print(ball.v.y)
     print(ball.v.y)
     ```
 
-## Arrow
+## Arrow  
+```python
+from vpython import *
+scene = canvas(width=800, height=800, background=vec(0.5,0.5,0))            # open a window
+a1 = arrow(color = color.green, shaftwidth = 0.05)
+b1 = arrow(color = color.blue, shaftwidth = 0.05)
 
+a1.pos = vec(1, 1, 0) 
+a1.axis = vec(1, -1, 0) 
+b1.pos = a1.pos + a1.axis 
+b1.axis = vec(2, 1, 0)
+
+c1 = arrow(color = color.yellow, shaftwidth=0.05) 
+c1.pos = a1.pos
+c1.axis = a1.axis + b1.axis
+```
+In this program, it draws two arrows, a1 and b1, with color being `green` and `blue`, respectively and with `shaftwidth = 0.05`. `arrow` has attributes like `pos`, `axis`, and `color`. E.g. `a1.pos = vector(1, 1, 0)` makes the starting point of a1 at (1, 1, 0), `a1.axis = vec(1, -1, 0)` draws a1 as a vector of (1, -1, 0). Similarly, b1 starts at a1’s arrow tip and has an axis of vector `vec(2, 1, 0)`. If you follow the codes for arrow c1, you can find that this is actually a representation of a vector addition, vector a1 + vector b1 = vector c1.  
 
 ## Homework
