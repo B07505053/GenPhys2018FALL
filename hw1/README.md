@@ -11,10 +11,9 @@
 + [Homework](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw1#homework)  
 
 ## python3 x vpython7 Installation  
-Follow the steps in “安裝” at http://tcjd71.wixsite.com/vpython/install to install (choose one of the following ways):  
-(1) python3 + vpython7  
-(2) anaconda + vpython http://tcjd71.wixsite.com/vpython/copy-of-python-2-vpython-6  
-(3) both(1) + (2)  
+Follow the steps in “安裝” at http://tcjd71.wixsite.com/vpython/install to install:  
+1. For Windows: http://tcjd71.wixsite.com/vpython/copy-of-python-3-vpython-7-1  
+2. For Mac: http://tcjd71.wixsite.com/vpython/copy-of-python-3-vpython-7-pc  
 
 Video: https://goo.gl/6F8uZp  
 
