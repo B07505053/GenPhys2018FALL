@@ -4,6 +4,12 @@
 + [影片](https://www.youtube.com/playlist?list=PLxowpOHFnGyPYeJTm6QGmZUEbnZAsyJA_)  
 + [作業說明pdf](https://drive.google.com/file/d/1IyYWUNxHgl9QLs6jyvTx4GvkDxYl-cfW/view)  
 
+## Contents
++ [python3 x vpython7 Installation](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw1#python3-x-vpython7-installation)  
++ [Free Fall](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw1#free-fall)  
++ [Arrow](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw1#free-fall)    
++ [Homework](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw1#homework)  
+
 ## python3 x vpython7 Installation  
 Follow the steps in “安裝” at http://tcjd71.wixsite.com/vpython/install to install (choose one of the following ways):  
 (1) python3 + vpython7  
@@ -150,12 +156,12 @@ Add some codes to find the following values and show the values in the end.
 `9/23 Sun. 22:00`@@@  
 
 ### Grading Criteria  
-1. Must@@@
+1. Must@@@  
     0: No Submission.  
     1: The program is totally not runnable.  
     2: There are some subtle bugs in the projectile animation so that it behaves abnormal.  
     3: The projectile animation is correct, but not printing the displacement value.  
     4: The projectile animation is correct, but the displacement value is wrong.  
     5: The projectile animation is correct, and so for the displacement value.  
-2. Optional
+2. Optional  
     If you have 1 question correct (either one), you get this 1 point credit.  
