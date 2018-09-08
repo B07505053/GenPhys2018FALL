@@ -6,6 +6,7 @@ General Physics (2018, fall)
 + 期末專題 (10%)  
 
 ## 聯絡TA:  
+* 程式助教：物理碩一 陳昱蓁  
 * TA hour: thursday section 6 @R519  
 * 歡迎大家有問題:  
   1. 就直接在TA hour找我  
