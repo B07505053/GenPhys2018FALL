@@ -1,17 +1,18 @@
 # GenPhys2018FALL
 General Physics (2018, fall)
 
-## 期末配分
-+ [作業9次 (10%) + 加分題](https://github.com/janice-cat/GenPhys2018FALL/blob/master/README.md#作業)  
-+ [期末專題 (10%)](https://github.com/janice-cat/GenPhys2018FALL/blob/master/README.md#期末專題)  
-
-## 聯絡TA:  
+## 聯絡TA  
 * 程式助教：物理碩一 陳昱蓁  
 * TA hour: thursday section 6 @R519  
 * 歡迎大家有問題:  
   1. 就直接在TA hour找我  
   2. 若有不便之處，請寫信給我，主旨：[普物]，我會優先處理  
      信箱：R07222016@ntu.edu.tw  
+
+## 期末配分
++ [作業9次 (10%) + 加分題](https://github.com/janice-cat/GenPhys2018FALL/blob/master/README.md#作業)  
++ [期末專題 (10%)](https://github.com/janice-cat/GenPhys2018FALL/blob/master/README.md#期末專題)  
+
         
 ## 作業  
 ### 作業公佈  
@@ -40,8 +41,6 @@ General Physics (2018, fall)
 * 5個等次（滿分5分，有時候有1分加分題）：會在作業公佈時一併公佈  
 * 若有抄襲行為，該次作業直接0分  
 * 作業成績會在ceiba上公布，若對於評分有疑義，請來信  
-
-
 
 ## 期末專題  
 + 請錄12分鐘的影片上傳到youtube  
