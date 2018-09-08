@@ -7,7 +7,7 @@
 ## Contents
 + [python3 x vpython7 Installation](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw1#python3-x-vpython7-installation)  
 + [Free Fall](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw1#free-fall)  
-+ [Arrow](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw1#free-fall)    
++ [Arrow](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw1#arrow)    
 + [Homework](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw1#homework)  
 
 ## python3 x vpython7 Installation  
@@ -147,7 +147,7 @@ You need to hand in your homework with a filename extension ‘.py’. If you ar
 ### MUST (5%)  
 Modify the Free Fall program. Let the ball’s initial position = vec(-15, 5, 0) and with initial velocity = vec (6, 8, 0). Add at the center of the ball an arrow, which moves along with the ball and whose length is proportional (proportional constant by your choice) to and parallel to the velocity vector of the ball. In the end, show the displacement of the ball for the entire flight.  
 
-### OPTIONAL (1%)  
+### BONUS (1%)  
 Add some codes to find the following values and show the values in the end.  
 1. The flying time in the air.  
 2. The length of the entire path. (Note: in python, `x**p` means x to power p, $x^{p}$)  
@@ -163,5 +163,5 @@ Add some codes to find the following values and show the values in the end.
     3: The projectile animation is correct, but you fail to show the displacement value.  
     4: The projectile animation is correct, but the displacement value is wrong.  
     5: The projectile animation is correct, and so for the displacement value.  
-2. Optional  
+2. Bonus    
     If you have 1 question correct (either one), you get this 1 point credit.  
