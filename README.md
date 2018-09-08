@@ -3,7 +3,7 @@ General Physics (2018, fall)
 
 ## 期末配分
 + [作業9次 (10%) + 加分題](https://github.com/janice-cat/GenPhys2018FALL/blob/master/README.md#作業)  
-+ [期末專題 (10%)](https://github.com/janice-cat/GenPhys2018FALL/blob/master/README.md#作業)  
++ [期末專題 (10%)](https://github.com/janice-cat/GenPhys2018FALL/blob/master/README.md#期末專題)  
 
 ## 聯絡TA:  
 * 程式助教：物理碩一 陳昱蓁  
