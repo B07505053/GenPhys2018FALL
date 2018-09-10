@@ -14,8 +14,7 @@
 Follow the steps in “安裝” at http://tcjd71.wixsite.com/vpython/install to install:  
 1. For Windows: http://tcjd71.wixsite.com/vpython/copy-of-python-3-vpython-7-1  
 2. For Mac: http://tcjd71.wixsite.com/vpython/copy-of-python-3-vpython-7-pc  
-
-Video: https://goo.gl/6F8uZp  
+  
 
 ## Free Fall  
 Type (type instead of “cut-and-paste” can help you learn coding) and then run the codes. *** Hold the right mouse button and move mouse to change view angle. Hold both buttons and move the mouse to zoom in or out.  
