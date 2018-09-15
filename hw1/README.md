@@ -141,6 +141,7 @@ In this program, it draws two arrows, a1 and b1, with color being `green` and `b
 
 ## Homework  
 You need to hand in your homework with a filename extension ‘.py’. If you are writing your homework in Jupyter, you need to extract the complete runnable codes and save them in just one ‘.py’ file.  
+> **[Note]** You should specify the units in your answers.  
   
 ### MUST (5%)  
 Modify the Free Fall program. Let the ball’s initial position = vec(-15, 5, 0) and with initial velocity = vec (6, 8, 0). Add at the center of the ball an arrow, which moves along with the ball and whose length is proportional (proportional constant by your choice) to and parallel to the velocity vector of the ball. In the end, show the displacement of the ball for the entire flight.  
