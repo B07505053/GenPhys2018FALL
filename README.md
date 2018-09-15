@@ -8,6 +8,9 @@
 ## 網站資源  
 + [石明豐教授 VPhysics](http://tcjd71.wixsite.com/vpython)  
 + [VPython7 Documentation](http://www.glowscript.org/docs/VPythonDocs/index.html)  
+
+## Python3 x VPython7 安裝教學  
++ [09/13 Class Notes](https://github.com/janice-cat/GenPhys2018FALL/blob/master/Installation.md)  
   
 ## 學期配分
 + [作業9次 (10%) + 加分題](https://github.com/janice-cat/GenPhys2018FALL/blob/master/README.md#作業)  
@@ -53,7 +56,7 @@
 + 5個等次（滿分5分，有時候有1分加分題），會在作業公佈時一併公佈  
 + 若有抄襲行為，該次作業直接以0分計  
 + 作業成績會在ceiba上公布，若對於評分有疑義，請寫信給助教  
-+ 希望透過同學的錄影講解，確定大家對物理及程式已有充分的了解。因此，**若少繳交一次錄影，將扣程式作業總分1分**  
++ 希望透過同學的錄影講解，確定大家對物理及程式已有充分的了解。因此，**若少繳交一次錄影，將扣程式作業總分1分 (i.e. 期末1分!!)**  
   
 ## 期末專題  
 實作本學期普物課程所學到物理現象，並錄12分鐘的影片上傳到youtube  
