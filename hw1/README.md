@@ -187,12 +187,12 @@ Add some codes to find the following values and show the values in the end.
     開啟終端機  
     + Interactive Shell:  
         + 進入python shell:  
-           ![python3](graph/python3.png)  
+           ![python3](../graph/python3.png)  
         + 退出方式：ctrl-d退出  
     + Run with script:  
         ```bash
         cd <path_to_the_directory_of_xxx.py>
         python3 xxx.py
         ```
-        ![python3_run_script](graph/python3_run_script.png)
+        ![python3_run_script](../graph/python3_run_script.png)
         + 中斷方式：直接將瀏覽器分頁關掉，或是按ctrl-c退出。  
