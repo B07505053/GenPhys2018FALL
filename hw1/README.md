@@ -174,7 +174,7 @@ Add some codes to find the following values and show the values in the end.
     作業一結束之後，會教大家一些實用的字串小技巧。  
 4. `vector`物件的實用成員方法(method)，例如你想要算向量的長度...:  
 [vector object documentation](http://www.glowscript.org/docs/VPythonDocs/vector.html)一樣在VPython7的Documentaion有提到喔！魔鬼都藏在這裡面了(?)  
-5. `rate(frequency)`和`dt`該怎麼設？
+5. `rate(frequency)`和`dt`該怎麼設？  
     A: rate(frequency)函式控制一秒鐘跑幾個while loop iteration，因此你可以藉由 frequency x dt 推算現實一秒鐘代表程式幾秒鐘。  
     ex)
     ```python
