@@ -197,3 +197,5 @@ Add some codes to find the following values and show the values in the end.
         ```
         ![python3_run_script](../graph/python3_run_script.png)
         + 中斷方式：直接將瀏覽器分頁關掉，或是按ctrl-c退出。  
+        + 我要在哪裡寫script？  
+          一般文字編輯器即可，如果你沒有，可以安裝[Sublime Text3](https://www.sublimetext.com/3)  
