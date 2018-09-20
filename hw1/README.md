@@ -166,15 +166,20 @@ Add some codes to find the following values and show the values in the end.
     If you have 1 question correct (either one), you get this 1 point credit.  
 
 ### Q&A  
-1. 請大家注意print出的物理量 **要寫單位** !!! 但因為助教這次沒有在開始時就宣佈，所以不會扣分。但請看到的同學，就順手把單位print出來吧，謝謝～  
-2. 程式執行到最後要show數值到畫面上時（使用`text`物件）會出現延遲的現象。  
+1. **\[重要\]** 請大家千萬不要直接帶公式去算作業要求的物理量!!!程式作業是希望同學去學習如何"模擬"，因此這些物理量也請大家用模擬得到喔。  
+    + 例如：求拋體運動，球的終點？  
+    請不要用帶拋體運動公式算。我要的答案是跑過while迴圈，模擬告訴你終點值。
+    + 模擬做出來的與理論值總是會有精度差異。所以如果你的答案"太精準"，助教就會去關心你的code喔～  
+    + 但是非常鼓勵同學先用手算，再與模擬得出的量值做比較。  
+2. **\[重要\]** 請大家注意print出的物理量 **要寫單位** !!! 但因為助教這次沒有在開始時就宣佈，所以不會扣分。但請看到的同學，就順手把單位print出來吧，謝謝～  
+3. 程式執行到最後要show數值到畫面上時（使用`text`物件）會出現延遲的現象。  
     A: 這是正常狀況。如果使用`label`物件就不會有這樣的問題發生。這延遲的狀況不影響作業計分，但有興趣的同學，可以自己先研究`label`物件的使用方法（請大家善用[vpython documentation](http://www.glowscript.org/docs/VPythonDocs/index.html)，你們一個學年將和他度過）。不過label的用法我會在作業一結束之後一起說明。  
-3. 想要用一個`text`物件或`label`物件顯示完2 (or 3)行。  
+4. 想要用一個`text`物件或`label`物件顯示完2 (or 3)行。  
     A: 可以用換行符`\n`做到。  
     作業一結束之後，會教大家一些實用的字串小技巧。  
-4. `vector`物件的實用成員方法(method)或是函式(function)，例如你想要算向量的長度...:  
+5. `vector`物件的實用成員方法(method)或是函式(function)，例如你想要算向量的長度...:  
 [vector object documentation](http://www.glowscript.org/docs/VPythonDocs/vector.html)一樣在VPython7的Documentaion有提到喔！魔鬼都藏在這裡面了(?)  
-5. `rate(frequency)`和`dt`該怎麼設？  
+6. `rate(frequency)`和`dt`該怎麼設？  
     A: rate(frequency)函式控制一秒鐘跑幾個while loop iteration，因此你可以藉由 frequency x dt 推算現實一秒鐘代表程式幾秒鐘。  
     ex)
     ```python
@@ -184,7 +189,7 @@ Add some codes to find the following values and show the values in the end.
     ```
     Ref: VPython6's documentation （有rate函式的一些有用解釋，也有提到動畫畫面更新的頻率）  
     http://vpython.org/contents/docs/index.html  
-6. **\[Mac用戶\]** 如何在終端機上使用python?  
+7. **\[Mac用戶\]** 如何在終端機上使用python?  
     開啟終端機  
     + Interactive Shell:  
         + 進入python shell:  
